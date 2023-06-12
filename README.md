@@ -2,7 +2,7 @@
 This repository contains all the Portfolio Projects.
 
 
-COVID_Portfolio_Project
+1) COVID_Portfolio_Project
 In our first project we will be using SQL to do some Data Exploration.
 
 Link to Dataset : https://ourworldindata.org/covid-deaths
